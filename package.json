@@ -1,0 +1,24 @@
+{
+  "name": "practica-1-tailwind",
+  "version": "1.0.0",
+  "description": "practica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crissj14/practica-1-tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crissj14/practica-1-tailwind/issues"
+  },
+  "homepage": "https://github.com/crissj14/practica-1-tailwind#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}
